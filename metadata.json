@@ -1,0 +1,6 @@
+{
+  "name": "Selera Nusantara - Pesan Makanan Online",
+  "description": "Aplikasi pemesanan makanan online mudah dan cepat dengan menu khas nusantara, keranjang belanja, opsi dine-in/takeaway/delivery, dan kirim struk WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
